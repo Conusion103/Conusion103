@@ -1,31 +1,34 @@
-<svg viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional presentation of Isai Ariza">
+<svg viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional Presentation of Isai Ariza">
   <style>
     .name {
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: 'Arial', sans-serif;
       font-weight: bold;
       font-size: 42px;
-      fill: #00bcd4;
+      fill: #00e5ff;
+      filter: drop-shadow(0 0 6px #00e5ff);
       animation: pulse 3s ease-in-out infinite alternate;
     }
     .title {
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: 'Arial', sans-serif;
       font-weight: 600;
       font-size: 18px;
-      fill: #00695c;
+      fill: #00bfa5;
+      filter: drop-shadow(0 0 4px #00bfa5);
       letter-spacing: 0.05em;
       text-transform: uppercase;
       animation: flicker 4s linear infinite;
     }
     .desc {
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: 'Arial', sans-serif;
       font-weight: normal;
       font-size: 16px;
-      fill: #424242;
+      fill: #cccccc;
+      filter: drop-shadow(0 0 2px #333);
     }
     @keyframes pulse {
-      0% { fill: #00bcd4; opacity: 1; }
-      50% { fill: #00838f; opacity: 0.8; }
-      100% { fill: #00bcd4; opacity: 1; }
+      0% { fill: #00e5ff; opacity: 1; }
+      50% { fill: #009eaa; opacity: 0.85; }
+      100% { fill: #00e5ff; opacity: 1; }
     }
     @keyframes flicker {
       0%, 20%, 40%, 60%, 80%, 100% { opacity: 1; }
@@ -39,6 +42,7 @@
     Adaptable engineer with a passion for continuous learning
   </text>
 </svg>
+
 
 
 
