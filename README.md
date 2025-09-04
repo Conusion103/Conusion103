@@ -1,4 +1,4 @@
-![Header](assets/github-header-banner.png)
+![Header](assets/svg.svg)
 # 👨‍💻 Isai Ariza | Mechatronics Engineer & IoT Enthusiast
 
 Hi there! I'm **Isai David Ariza Cantillo**, a Mechatronics Engineer with a solid foundation in software development and a deep passion for **IoT, automation**, and **intelligent systems** applied to healthcare.
